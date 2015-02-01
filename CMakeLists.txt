@@ -394,6 +394,7 @@ SET(AQUARIA_SRCS
     ${SRCDIR}/PathFinding.cpp
     ${SRCDIR}/PathRender.cpp
     ${SRCDIR}/RecipeMenuEntry.cpp
+    ${SRCDIR}/SDLMain.m
     ${SRCDIR}/SceneEditor.cpp
     ${SRCDIR}/SchoolFish.cpp
     ${SRCDIR}/ScriptedEntity.cpp
